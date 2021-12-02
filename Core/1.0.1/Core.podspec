@@ -3,18 +3,18 @@ Pod::Spec.new do |s|
 s.platform = :ios
 s.ios.deployment_target = '14.0'
 s.name = "Core"
-s.summary = "Dicoding Core.framework for modularization chapter"
+s.summary = "Gimpolitan Core.framework for modularization chapter"
 s.requires_arc = true
  
 s.version = "1.0.1"
  
 s.license = { :type => "MIT", :file => "LICENSE" }
  
-s.author = { "Fandy Gotama" => "gotamafandy@gmail.com" }
+s.author = { "Galang Aji Susanto" => "galangajisusanto@gmail.com" }
  
-s.homepage = "https://github.com/gotamafandy/Fandy-Dicoding-Core"
+s.homepage = "https://github.com/galangajisusanto/Gimpolitan-Core"
  
-s.source = { :git => "https://github.com/gotamafandy/Fandy-Dicoding-Core.git", 
+s.source = { :git => "https://github.com/galangajisusanto/Gimpolitan-Core.git", 
 :tag => "#{s.version}" }
  
 s.framework = "UIKit"
