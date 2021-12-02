@@ -20,7 +20,9 @@ s.source = { :git => "https://github.com/galangajisusanto/Gimpolitan-Core.git",
 s.framework = "UIKit"
  
 s.source_files = "Core/**/*.{swift}"
-#s.dependency 'Alamofire'
+s.dependency 'RxSwift', '6.2.0'
+s.dependency 'RxCocoa', '6.2.0'
+s.dependency 'RealmSwift', '~>10'
  
 #s.resources = "Core/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
  
