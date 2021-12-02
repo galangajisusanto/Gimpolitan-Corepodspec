@@ -10,11 +10,11 @@ s.version = "1.0.0"
  
 s.license = { :type => "MIT", :file => "LICENSE" }
  
-s.author = { "Fandy Gotama" => "gotamafandy@gmail.com" }
+s.author = { "Galang Aji Susanto => "galangajisusanto@gmail.com" }
  
-s.homepage = "https://github.com/gotamafandy/Fandy-Dicoding-Core"
+s.homepage = "https://github.com/galangajisusanto/Gimpolitan-Core"
  
-s.source = { :git => "https://github.com/gotamafandy/Fandy-Dicoding-Core.git", 
+s.source = { :git => "https://github.com/galangajisusanto/Gimpolitan-Core.git", 
 :tag => "#{s.version}" }
  
 s.framework = "UIKit"
